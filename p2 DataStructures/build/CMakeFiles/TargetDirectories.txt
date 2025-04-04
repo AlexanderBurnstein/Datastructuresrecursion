@@ -1,0 +1,6 @@
+/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build/CMakeFiles/main.dir
+/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build/CMakeFiles/edit_cache.dir
+/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build/CMakeFiles/rebuild_cache.dir
+/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build/src/CMakeFiles/src.dir
+/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build/src/CMakeFiles/edit_cache.dir
+/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src -I/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/ITPLib -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/main.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src -I/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/ITPLib -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o src/CMakeFiles/src.dir/disk.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src/disk.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src/disk.cpp",
+  "output": "src/CMakeFiles/src.dir/disk.cpp.o"
+},
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src -I/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/ITPLib -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o src/CMakeFiles/src.dir/peg.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src/peg.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src/peg.cpp",
+  "output": "src/CMakeFiles/src.dir/peg.cpp.o"
+},
+{
+  "directory": "/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/build",
+  "command": "/usr/bin/clang++ -I/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src -I/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/ITPLib -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o src/CMakeFiles/src.dir/towers.cpp.o -c /Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src/towers.cpp",
+  "file": "/Users/alexanderburnstein/Documents/GitHub/p2-burnsteinalexander/src/towers.cpp",
+  "output": "src/CMakeFiles/src.dir/towers.cpp.o"
+}
+]
